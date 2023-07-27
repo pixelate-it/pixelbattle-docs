@@ -1,3 +1,4 @@
 # Table of contents
 
-* [FoxHelper](README.md)
+* [👋 Добро пожаловать](README.md)
+* [🔑 Политика конфиденциальности](privacy-policy.md)
