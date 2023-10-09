@@ -9,6 +9,7 @@
 * [📌 Информация о играх и сезонах](info/games-and-seasons.md)
 * [📌 Модераторы и баны](info/moderators.md)
 * [📌 Бот PixelBattle](info/bot-pixelbattle.md)
+* [📌 API Pixel Battle](info/api.md)
 
 ***
 
