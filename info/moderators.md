@@ -29,11 +29,11 @@ layout:
 
 Модератор **не имеет** права участвовать в играх Pixel Battle, поскольку он имеет иммунитет к задержке на установку пикселей.
 
-Модератор **имеет** право модерировать как холст [**Pixel Battle**](https://pixelbattle.fun/), так и [**Discord-сервер Pixelate It**](https://discord.gg/XBPyGUv3DT)!
+Модератор **имеет** право модерировать как холст [**Pixel Battle**](https://pixelbattle.fun/), так и [**Discord-сервер Pixelate It**!](https://discord.gg/XBPyGUv3DT)
 
 ## Баны <a href="#bans" id="bans"></a>
 
-На данный момент суещствует 2 типа банов:
+На данный момент существует 2 типа банов:
 
 ### Бан аккаунта <a href="#ban" id="ban"></a>
 
