@@ -16,10 +16,10 @@ layout:
 
 Этот сайт является сборником информации для игры [**Pixel Battle**](https://pixelbattle.fun), тут вы можете найти некоторую необходимую информацию, например гайды или часто задаваемые вопросып
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="schedule/" %}
 [schedule](schedule/)
+{% endcontent-ref %}
+
+{% content-ref url="info/pixelateit.md" %}
+[pixelateit.md](info/pixelateit.md)
 {% endcontent-ref %}
