@@ -15,5 +15,6 @@
 
 ***
 
-* [🔑 Политика конфиденциальности](privacy-policy.md)
+* [⚙ Open Source](open-source.md)
+* [🔑 Политика конфиденциальности](privacy.md)
 * [Сервер Pixelate It!](https://discord.gg/XBPyGUv3DT)
