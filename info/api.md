@@ -51,7 +51,6 @@ Discord user ID
 {% swagger-response status="404: Not Found" description="Пользователь не найден в БД" %}
 ```json
 {
-
     "error": true,
     "reason": "EntryMissing"
 }
@@ -122,8 +121,8 @@ Example:
         "unused": 1566
     },
     "tags": [
-        { "Pixelate It! Team": 10000 },
-        { "ing sqd.": 1234 }
+        ["Pixelate It! Team", 10000],
+        ["ing sqd.", 1234]
     ]
 }
 ```
