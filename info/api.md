@@ -16,6 +16,8 @@ layout:
 
 API - [**https://api.pixelbattle.fun/**](https://api.pixelbattle.fun/)
 
+## УСТАРЕВШАЯ ИНФОРМАЦИЯ!
+
 ## Что необходимо для работы с API?
 
 Вся подробная информация о требованиях к запросу предоставлена в интересующем вас EndPoint'е
@@ -33,7 +35,7 @@ API - [**https://api.pixelbattle.fun/**](https://api.pixelbattle.fun/)
 ```json
 {
     "error": false, 
-    "reason": "PixelAPI v3 works! Good time for chill :D"
+    "reason": "PixelAPI v4 works! Good time for chill :D"
 }
 ```
 {% endswagger-response %}
@@ -52,7 +54,11 @@ Discord user ID
 ```json
 {
     "error": true,
-    "reason": "EntryMissing"
+    "reason": "EntityNotFound",
+    "message": "Entity is not found",
+    "data": {
+        "entity": "user"
+    }
 }
 ```
 {% endswagger-response %}
@@ -64,8 +70,10 @@ Discord user ID
     "cooldown": 1701451495266,
     "tag": "Pixelate It! Team",
     "username": "mirdukkkkk",
-    "banned": false,
-    "isMod": true
+    "banned": null,
+    "role": 2,
+    "badges": ["1"],
+    "points": 0
 }
 ```
 {% endswagger-response %}
@@ -92,18 +100,15 @@ Discord user ID
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="get" path="/pixels.bmp" baseUrl="https://api.pixelbattle.fun" summary="Get canvas" %}
+{% swagger method="get" path="/pixels.png" baseUrl="https://api.pixelbattle.fun" summary="Get canvas" %}
 {% swagger-description %}
-Позволяет получить холст в виде картинки формата .bmp
+Позволяет получить холст в виде картинки формата .png
 {% endswagger-description %}
 
 {% swagger-response status="200: OK" description="" %}
-Bits per pixel: 24 (3 channels)\
 Resolution: canvas.width x canvas.height (here 160x80)
 
 Example:
-
-<img src="../.gitbook/assets/pixels.bmp" alt="" data-size="original">
 {% endswagger-response %}
 {% endswagger %}
 
