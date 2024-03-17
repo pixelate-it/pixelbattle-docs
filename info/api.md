@@ -12,17 +12,17 @@ layout:
     visible: true
 ---
 
-# 📌 API Pixel Battle
+# 📌 API Pixel Battle (stale)
 
 API - [**https://api.pixelbattle.fun/**](https://api.pixelbattle.fun/)
 
 ## УСТАРЕВШАЯ ИНФОРМАЦИЯ!
 
-## Что необходимо для работы с API?
+## Что необходимо для работы с API? <a href="#dependencies" id="dependencies"></a>
 
 Вся подробная информация о требованиях к запросу предоставлена в интересующем вас EndPoint'е
 
-## Endpoints
+## Endpoints <a href="#endpoints" id="endpoints"></a>
 
 
 

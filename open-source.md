@@ -15,9 +15,9 @@ layout:
     visible: true
 ---
 
-# ⚙ Open Source
+# ⚙️ Open Source
 
-## Ссылки
+## Ссылки <a href="#links" id="links"></a>
 
 [**https://github.com/pixelate-it**](https://github.com/pixelate-it) **- наша организация на GitHub**
 
