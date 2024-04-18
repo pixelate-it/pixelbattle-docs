@@ -1,5 +1,16 @@
 ---
 description: Упомянутые правила необходимо соблюдать
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
 # ⚡ Правила игр

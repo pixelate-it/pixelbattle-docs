@@ -7,17 +7,17 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
-    visible: true
+    visible: false
 ---
 
 # 👋 Добро пожаловать
 
 Этот сайт является сборником информации для игры [**Pixel Battle**](https://pixelbattle.fun), тут вы можете найти некоторую необходимую информацию, к примеру, гайды или часто задаваемые вопросы
 
-{% content-ref url="schedule/" %}
-[schedule](schedule/)
+{% content-ref url="schedule.md" %}
+[schedule.md](schedule.md)
 {% endcontent-ref %}
 
 {% content-ref url="info/pixelateit.md" %}
