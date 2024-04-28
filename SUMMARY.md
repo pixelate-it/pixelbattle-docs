@@ -8,7 +8,11 @@
 
 * [📌 Проект и сервер](info/pixelateit.md)
 * [📌 Информация о играх и сезонах](info/games-and-seasons.md)
-* [📌 Модераторы и баны](info/moderators.md)
+* [📌 Модераторы](info/moderators/README.md)
+  * [📌 Положение](info/moderators/regulation.md)
+  * [📌 Типы модераторов](info/moderators/types.md)
+  * [Подать заявку](https://academy.pixelbattle.fun/)
+* [📌 Типы банов](info/bans.md)
 * [📌 Бот PixelBattle](info/bot-pixelbattle/README.md)
   * [📌 Балловая система (stale)](info/bot-pixelbattle/points.md)
 * [📌 API Pixel Battle (stale)](info/api.md)
