@@ -20,6 +20,6 @@ layout:
 [schedule.md](schedule.md)
 {% endcontent-ref %}
 
-{% content-ref url="info/pixelateit.md" %}
-[pixelateit.md](info/pixelateit.md)
+{% content-ref url="common/pixelateit.md" %}
+[pixelateit.md](common/pixelateit.md)
 {% endcontent-ref %}

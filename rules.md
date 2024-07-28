@@ -41,6 +41,6 @@ layout:
 
 ## Положение модерации (D) <a href="#moderators-regulation" id="moderators-regulation"></a>
 
-{% content-ref url="info/moderators/regulation.md" %}
-[regulation.md](info/moderators/regulation.md)
+{% content-ref url="moderator/regulation.md" %}
+[regulation.md](moderator/regulation.md)
 {% endcontent-ref %}

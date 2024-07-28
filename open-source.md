@@ -26,3 +26,10 @@ layout:
 > [https://github.com/pixelate-it/pixelbattle-frontend](https://github.com/pixelate-it/pixelbattle-frontend)\
 > [https://github.com/pixelate-it/pixelbattle-backend](https://github.com/pixelate-it/pixelbattle-backend)\
 > [https://github.com/pixelate-it/pixelbattle-bot](https://github.com/pixelate-it/pixelbattle-bot)
+>
+>
+>
+> Дополнительные инструменты
+>
+> [https://github.com/pixelate-it/pixelbattle-recorder](https://github.com/pixelate-it/pixelbattle-recorder)[https://github.com/pixelate-it/pixelbattle-extender](https://github.com/pixelate-it/pixelbattle-extender)\
+> [https://github.com/pixelate-it/pixelbattle-docs](https://github.com/pixelate-it/pixelbattle-docs)
