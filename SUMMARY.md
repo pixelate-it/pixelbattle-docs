@@ -12,7 +12,7 @@
 
 ## Модераторы <a href="#moderator" id="moderator"></a>
 
-* [📌 Определения](moderator/opredeleniya.md)
+* [📌 Определения](moderator/definition.md)
 * [📌 Иерархия](moderator/hierarchy.md)
 * [📌 Положение](moderator/regulation.md)
 * [📌 Подать заявку](https://academy.pixelbattle.fun/)
