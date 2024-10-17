@@ -38,4 +38,4 @@
 * [Discord бот](discord-bot.md)
 * [Open Source](open-source.md)
 * [Discord-сервер Pixelate It!](https://discord.gg/XBPyGUv3DT)
-* [Телеграмм-канал Pixelate It!](https://t.me/pixelate\_it)
+* [Telegram-канал Pixelate It!](https://t.me/pixelate\_it)

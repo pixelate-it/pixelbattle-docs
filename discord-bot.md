@@ -17,7 +17,7 @@ layout:
 
 ## Информация <a href="#information" id="information"></a>
 
-На данный момент бот нужен для более углублённого взаимодействия с Pixel Battle, а так же бот используется как инструмент модерации командой [**модераторов Pixel Battle**](broken-reference).
+На данный момент бот нужен для более углублённого взаимодействия с Pixel Battle, а так же бот используется как инструмент модерации командой [**модераторов Pixel Battle**](moderator/hierarchy.md).
 
 ## Команды <a href="#commands" id="commands"></a>
 
