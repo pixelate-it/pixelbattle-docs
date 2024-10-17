@@ -1,4 +1,5 @@
 ---
+icon: thumbtack
 layout:
   title:
     visible: true
@@ -12,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 📌 Проект и сервер
+# Проект и сервер
 
 ## Проект <a href="#project" id="project"></a>
 

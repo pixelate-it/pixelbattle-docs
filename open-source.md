@@ -2,6 +2,7 @@
 description: >-
   Проект Pixel Battle является полностью Open-Source, и находится под лицензией
   GNU GPL v3
+icon: gear-code
 layout:
   title:
     visible: true
@@ -15,7 +16,7 @@ layout:
     visible: false
 ---
 
-# ⚙️ Open Source
+# Open Source
 
 ## Ссылки <a href="#links" id="links"></a>
 

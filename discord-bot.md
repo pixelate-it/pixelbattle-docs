@@ -1,4 +1,5 @@
 ---
+icon: robot
 layout:
   title:
     visible: true
@@ -12,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 🤖 Discord бот
+# Discord бот
 
 ## Информация <a href="#information" id="information"></a>
 

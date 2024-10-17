@@ -1,4 +1,5 @@
 ---
+icon: hand-wave
 layout:
   title:
     visible: true
@@ -12,12 +13,12 @@ layout:
     visible: false
 ---
 
-# 👋 Добро пожаловать
+# Добро пожаловать
 
 Этот сайт является сборником информации для игры [**Pixel Battle**](https://pixelbattle.fun), тут вы можете найти некоторую необходимую информацию, к примеру, гайды или часто задаваемые вопросы
 
-{% content-ref url="schedule.md" %}
-[schedule.md](schedule.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="common/pixelateit.md" %}

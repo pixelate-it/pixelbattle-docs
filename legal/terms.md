@@ -1,4 +1,5 @@
 ---
+icon: handshake-simple
 layout:
   title:
     visible: true
@@ -12,7 +13,7 @@ layout:
     visible: false
 ---
 
-# 🤝 Условия использования
+# Условия использования
 
 ### Введение <a href="#introduction" id="introduction"></a>
 

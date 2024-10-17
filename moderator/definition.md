@@ -1,4 +1,5 @@
 ---
+icon: question
 layout:
   title:
     visible: true
@@ -12,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 📌 Определения
+# Определения
 
 ### Для чего? <a href="#for" id="for"></a>
 
