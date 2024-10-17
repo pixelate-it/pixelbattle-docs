@@ -23,7 +23,7 @@ description: Используется для пункта A3 правил игр
 | [tenor.com](https://tenor.com/)                                                                 | Tenor, Тенор                                                                             |
 | [vk.com](https://vk.com/)                                                                       | VKontakte, VK, ВКонтакте, ВК                                                             |
 | [pinterest.com](https://pinterest.com/) [pin.it](https://pin.it/)                               | Pinterest, Пинтерест                                                                     |
-| [dsc.gg](https://dsc.gg/)                                                                       | Link shortener, сократетль ссылок \| Discord, Дискорд                                    |
+| [dsc.gg](https://dsc.gg/)                                                                       | Link shortener, сократитель ссылок \| Discord, Дискорд                                   |
 | [top.gg](https://top.gg/)                                                                       | TopGG, ТопГГ                                                                             |
 | [disboard.org](https://disboard.org/)                                                           | DisBoard (monitoring), ДисБорд (мониторинг), ДисБоард \| Discord, Дискорд                |
 | [discordserver.info](https://discordserver.info/) [mon.lv](https://mon.lv/)                     | DiscordServer (monitoring), ДискордСервер (мониторинг) \| Discord, Дискорд               |
