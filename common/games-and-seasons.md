@@ -17,7 +17,7 @@ layout:
 
 ## Игра <a href="#game" id="game"></a>
 
-Игры проводятся согласно [расписанию](broken-reference), с возможными исключениями, о которых можно узнать на нашем [Discord-сервере Pixelate It](https://discord.gg/XBPyGUv3DT).
+Игры Pixel Battle проводятся не по фиксированному расписанию, а по решению команды Pixelate It! О предстоящих играх и изменениях можно узнать на нашем [сервере Discord](https://discord.gg/XBPyGUv3DT).
 
 Игры Pixel Battle проходят исключительно на официальном сайте: [https://pixelbattle.fun/](https://pixelbattle.fun/).
 
