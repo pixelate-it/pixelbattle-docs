@@ -2,7 +2,7 @@
 
 * [Добро пожаловать](README.md)
 * [Правила игр](rules/README.md)
-  * [Список разрешённых ресурсов](rules/allowed-links.md)
+  * [Список разрешённых доменных имён](rules/allowed-domains.md)
 
 ## Общее <a href="#common" id="common"></a>
 
